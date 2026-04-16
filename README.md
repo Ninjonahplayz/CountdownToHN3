@@ -1,2 +1,1 @@
-# CountdownToHN3
-yuh
+https://ninjonahplayz.github.io/CountdownToHN3/
